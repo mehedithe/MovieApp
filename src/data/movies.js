@@ -51,7 +51,7 @@ const data = [
         "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe...",
         "genre": "Action/Adventure/Fantasy/Sci-Fi",
         "rating": 5,
-        "price": 100
+        "price": 899
     },
     {
         "id": crypto.randomUUID(),
@@ -69,7 +69,7 @@ const data = [
         "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home...",
         "genre": " Sci-Fi/Adventure/Action/Fantasy",
         "rating": 5,
-        "price": 100
+        "price": 349
     },
     {
         "id": crypto.randomUUID(),
@@ -78,7 +78,7 @@ const data = [
         "description": "Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the young duo joins forces with Han Solo (Harrison Ford) to make sure the Resistance receives the intelligence concerning the whereabouts of Luke Skywalker (Mark Hamill), the last of the Jedi Knights.",
         "genre": " Sci-Fi/Adventure/Action/Fantasy",
         "rating": 5,
-        "price": 100
+        "price": 660
     }
 ]
 
