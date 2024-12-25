@@ -1,5 +1,6 @@
 import React from 'react'
-import Star from '../assets/Star.svg';
+
+import Star from '../assets/star.svg';
 const Rating = ({value}) => {
 
    const stars = Array(value).fill(Star);
