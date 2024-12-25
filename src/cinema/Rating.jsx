@@ -7,7 +7,7 @@ const Rating = ({value}) => {
   return (
      <div className='flex'>
         {
-            stars.map((star, index) => (
+            stars.map((Star, index) => (
                 <img key={index}
                 src={Star}
                 width="14"
